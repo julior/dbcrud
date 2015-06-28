@@ -1,6 +1,8 @@
 dbcrud
 ======
 
+[![Join the chat at https://gitter.im/rinconjc/dbcrud](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rinconjc/dbcrud?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 # Goal
 
 Just connect to a JDBC datasource and start CRUDing without predefining any ORM or DAOs
